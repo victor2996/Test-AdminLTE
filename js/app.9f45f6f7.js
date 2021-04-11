@@ -429,15 +429,15 @@
         data: function () {
           return {
             links: [
-              { title: "Статистика", url: "*/admin/statistic" },
-              { title: "Баннеры", url: "*/admin/banners" },
-              { title: "Фильмы", url: "*/admin/movies" },
-              { title: "Кинотеатры", url: "*/admin/cinema" },
-              { title: "Новости", url: "*/admin/news" },
-              { title: "Акции", url: "*/admin/shares" },
-              { title: "Страницы", url: "*/admin/pages" },
-              { title: "Пользователи", url: "*/admin/users" },
-              { title: "Рассылки", url: "*/admin/mailings" },
+              { title: "Статистика", url: "/admin/statistic" },
+              { title: "Баннеры", url: "admin/banners" },
+              { title: "Фильмы", url: "/admin/movies" },
+              { title: "Кинотеатры", url: "/admin/cinema" },
+              { title: "Новости", url: "/admin/news" },
+              { title: "Акции", url: "/admin/shares" },
+              { title: "Страницы", url: "/admin/pages" },
+              { title: "Пользователи", url: "/admin/users" },
+              { title: "Рассылки", url: "/admin/mailings" },
             ],
           };
         },
