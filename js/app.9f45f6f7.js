@@ -496,7 +496,7 @@
             },
           },
           {
-            path: "/admin/banners",
+            path: "admin/banners",
             name: "Banners",
             meta: { layout: "admin" },
             component: function () {
